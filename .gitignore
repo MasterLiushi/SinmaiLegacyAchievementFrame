@@ -1,0 +1,12 @@
+# 构建产物
+Build/
+bin/
+obj/
+
+# IDE
+.vs/
+.idea/
+*.user
+*.DotSettings.user
+
+Libs/Assembly-CSharp.dll
